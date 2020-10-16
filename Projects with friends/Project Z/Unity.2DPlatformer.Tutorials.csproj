@@ -57,19 +57,19 @@
   <ItemGroup>
      <Compile Include="Assets\FPS\Tutorials\BuildAndPublish\Criteria\PublishCriteria.cs" />
  <Reference Include="Unity.Connect.Share.Editor">
- <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Projects with friends/Project Z/Library/ScriptAssemblies/Unity.Connect.Share.Editor.dll</HintPath>
+ <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Github teams/PROJECT-A-ARMY-/Projects with friends/Project Z/Library/ScriptAssemblies/Unity.Connect.Share.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Projects with friends/Project Z/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Github teams/PROJECT-A-ARMY-/Projects with friends/Project Z/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Projects with friends/Project Z/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Github teams/PROJECT-A-ARMY-/Projects with friends/Project Z/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Projects with friends/Project Z/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Github teams/PROJECT-A-ARMY-/Projects with friends/Project Z/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Projects with friends/Project Z/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Github teams/PROJECT-A-ARMY-/Projects with friends/Project Z/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -267,10 +267,10 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.5f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Compression.FileSystem">
- <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Projects with friends/Project Z/Library/PackageCache/com.unity.connect.share@2.0.3/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+ <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Github teams/PROJECT-A-ARMY-/Projects with friends/Project Z/Library/PackageCache/com.unity.connect.share@2.0.3/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Projects with friends/Project Z/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Github teams/PROJECT-A-ARMY-/Projects with friends/Project Z/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
