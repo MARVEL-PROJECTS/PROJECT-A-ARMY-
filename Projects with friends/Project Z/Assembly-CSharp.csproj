@@ -133,32 +133,18 @@
      <Compile Include="Assets\FPS\Scripts\EnemyManager.cs" />
      <Compile Include="Assets\FPS\Scripts\EnemyMobile.cs" />
      <Compile Include="Assets\FPS\Scripts\UI\Compass.cs" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne_License.txt" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\FPS\Prefabs\PBObjects\_ReadMe_PBObjects.txt" />
      <None Include="Assets\FPS\Art\Fonts\ApacheLicense2.0.txt" />
      <None Include="Assets\FPS\FPSMicrogame_README.txt" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\FPS\Art\Shaders\ProjectorMultiply.shader" />
      <None Include="Assets\FPS\Prefabs\RootObjects\_ReadMe_RootObjects.txt" />
      <None Include="Assets\FPS\Prefabs\Level\BaseObjects\_ReadMe_BaseObjects.txt" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
      <None Include="Assets\FPS\Third-PartyNotice.txt" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
-     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
-     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/chandrateja/OneDrive/Desktop/Github teams/PROJECT-A-ARMY-/Projects with friends/Project Z/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

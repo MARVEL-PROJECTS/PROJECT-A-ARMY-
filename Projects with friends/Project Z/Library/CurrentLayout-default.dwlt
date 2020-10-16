@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1366
     height: 685
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 144
+  controlID: 101
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 145
+  controlID: 130
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 146
+  controlID: 75
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/FPS/Prefabs/Level/MainLvl/Section3
+    - Assets/FPS/Prefabs
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/FPS/Prefabs/Level/MainLvl/Section3
+  - Assets/FPS/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\chandrateja\OneDrive\Desktop\Github teams\PROJECT-A-ARMY-\Projects
     with friends\Project Z
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 74}
-    m_SelectedIDs: 1e9b0000
-    m_LastClickedID: 39710
-    m_ExpandedIDs: 0000000010980000249800002e98000036980000049b000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 749a0000
+    m_LastClickedID: 39540
+    m_ExpandedIDs: 00000000349a0000649a0000709a0000729a0000749a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000010980000
+    m_ExpandedIDs: 00000000349a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -483,10 +483,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 32}
-      m_SelectedIDs: 605bffff
-      m_LastClickedID: -42144
-      m_ExpandedIDs: 1cfbffff44450000c045000024460000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 749a0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: dcfaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -596,9 +596,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.3290122, y: 0.47813925, z: -0.19923614, w: 0.7895864}
+    m_Target: {x: 0.2924402, y: 0.4682079, z: -0.16763271, w: 0.8168032}
     speed: 2
-    m_Value: {x: 0.33079326, y: 0.47546855, z: -0.19896086, w: 0.7905188}
+    m_Value: {x: 0.2936639, y: 0.467954, z: -0.16833416, w: 0.8163603}
   m_Size:
     m_Target: 0.30739504
     speed: 2
@@ -676,8 +676,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -309.5
     m_HBaseRangeMax: 309.5
-    m_VBaseRangeMin: -121
-    m_VBaseRangeMax: 121
+    m_VBaseRangeMin: -131.5
+    m_VBaseRangeMax: 131.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -694,11 +694,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 619
-      height: 242
+      height: 263
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 309.5, y: 121}
+    m_Translation: {x: 309.5, y: 131.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -706,9 +706,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -309.5
-      y: -121
+      y: -131.5
       width: 619
-      height: 242
+      height: 263
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 619, y: 263}
