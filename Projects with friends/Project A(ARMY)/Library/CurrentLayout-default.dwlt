@@ -43,7 +43,7 @@ MonoBehaviour:
     width: 1366
     height: 685
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 5}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -97,7 +97,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 321}
   m_MaxSize: {x: 600, y: 621}
   vertical: 0
-  controlID: 760
+  controlID: 1463
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,10 +193,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 635
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 12002, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 12004, y: 14042}
   vertical: 1
-  controlID: 707
+  controlID: 14
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,10 +218,10 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 364
-  m_MinSize: {x: 677, y: 221}
-  m_MaxSize: {x: 12002, y: 4021}
+  m_MinSize: {x: 679, y: 221}
+  m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
-  controlID: 708
+  controlID: 15
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,10 +243,10 @@ MonoBehaviour:
     y: 0
     width: 1090
     height: 364
-  m_MinSize: {x: 401, y: 221}
-  m_MaxSize: {x: 8001, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 709
+  controlID: 16
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -283,7 +283,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: GameView
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -294,11 +294,11 @@ MonoBehaviour:
     height: 364
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
   - {fileID: 16}
-  m_Selected: 1
+  m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -496,10 +496,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 02fbffff
+      scrollPos: {x: 0, y: 32}
+      m_SelectedIDs: a494feff
+      m_LastClickedID: -93020
+      m_ExpandedIDs: 649afeff54fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -611,11 +611,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.3180763, y: 0.6139498, z: -0.65873283, w: 0.29667777}
     speed: 2
-    m_Value: {x: 0.3180763, y: 0.6139498, z: -0.65873283, w: 0.29667777}
+    m_Value: {x: 0.31806782, y: 0.6139334, z: -0.65871525, w: 0.29666984}
   m_Size:
-    m_Target: 35.05368
+    m_Target: 39.671684
     speed: 2
-    m_Value: 35.05368
+    m_Value: 41.54103
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -718,22 +718,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/AddOns/MgFPS_SniperRifle
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/AddOns/MgFPS_SniperRifle
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\chandrateja\OneDrive\Desktop\Github teams\PROJECT-A-ARMY-\Projects
     with friends\Project A(ARMY)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 44c20000
-    m_LastClickedID: 49732
-    m_ExpandedIDs: 0000000044c2000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 16d60000
+    m_LastClickedID: 54806
+    m_ExpandedIDs: 00000000c2c00000bed4000018d600001ed80000a6d8000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -761,7 +761,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000044c2000000ca9a3b
+    m_ExpandedIDs: 00000000c2c00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
