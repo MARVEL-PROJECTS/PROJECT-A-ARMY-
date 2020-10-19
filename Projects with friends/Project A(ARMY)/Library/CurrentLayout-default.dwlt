@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 401, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 0
-  controlID: 26
+  controlID: 14
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 401, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 27
+  controlID: 15
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 401, y: 221}
   m_MaxSize: {x: 8001, y: 4021}
   vertical: 0
-  controlID: 28
+  controlID: 16
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -370,10 +370,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d49efeff
-      m_LastClickedID: -90412
-      m_ExpandedIDs: 30fbffff
+      scrollPos: {x: 0, y: 32}
+      m_SelectedIDs: 50aafeff
+      m_LastClickedID: -87472
+      m_ExpandedIDs: 54fbffff76490000f44a0000584b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -434,9 +434,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 63.859856, y: 70.80473, z: 74.54447}
+    m_Target: {x: 64.867615, y: 80.71858, z: 79.19}
     speed: 2
-    m_Value: {x: 63.859856, y: 70.80473, z: 74.54447}
+    m_Value: {x: 64.867615, y: 80.71858, z: 79.19}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -485,11 +485,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.14482747, y: -0.30956683, z: 0.047767743, w: 0.9385692}
     speed: 2
-    m_Value: {x: 0.14208119, y: -0.30829984, z: 0.046625745, w: 0.9394627}
+    m_Value: {x: -0.14482747, y: 0.30956683, z: -0.047767743, w: -0.9385692}
   m_Size:
-    m_Target: 21.342785
+    m_Target: 16.953835
     speed: 2
-    m_Value: 21.342785
+    m_Value: 16.953835
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -553,22 +553,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/FPS/Prefabs/Level/Stairwell
+    - Assets/Zombie/Prefabs
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/FPS/Prefabs/Level/Stairwell
+  - Assets/Zombie/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\chandrateja\OneDrive\Desktop\Github teams\PROJECT-A-ARMY-\Projects
     with friends\Project A(ARMY)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 123}
-    m_SelectedIDs: 9ac70000
-    m_LastClickedID: 51098
-    m_ExpandedIDs: 00000000fcc6000016c7000026c700002ec7000092c7000000ca9a3b
+    scrollPos: {x: 0, y: 475}
+    m_SelectedIDs: eecb0000
+    m_LastClickedID: 52206
+    m_ExpandedIDs: 0000000008c7000022c700002ac700002ec7000032c7000034c7000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -596,7 +596,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fcc60000
+    m_ExpandedIDs: 0000000008c70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
